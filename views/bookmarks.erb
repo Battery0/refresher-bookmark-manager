@@ -5,8 +5,10 @@
   </head>
   <body>
     <h1>Bookmark Manager</h1>
-    <a href="http://www.google.com" target="_blank">www.google.com</a><br>
-    <a href="http://www.bbc.com" target="_blank">www.bbc.com</a><br>
-    <a href="http://www.youtube.com" target="_blank">www.youtube.com</a>
+    <ul>
+      <% @bookmarks.all.each do |bookmark| %> 
+        <li><%= bookmark %></li> 
+      <% end %>
+    </ul>
   </body>
 </html>
