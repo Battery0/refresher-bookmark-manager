@@ -8,7 +8,6 @@
 As a web user
 So that I can see all my web bookmarks
 I'd like a web page that displays them all as a list
-
 ```
 
 ## Initial Domain Model
