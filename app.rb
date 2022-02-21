@@ -6,8 +6,8 @@ class BookmarkManager < Sinatra::Base
     register Sinatra::Reloader
   end
 
-  get '/' do
-    "Test 1 2 3"
+  get '/bookmarks' do
+    erb(:bookmarks)
   end
   
 end
