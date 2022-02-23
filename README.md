@@ -8,6 +8,10 @@
 As a web user
 So that I can see all my web bookmarks
 I'd like a web page that displays them all as a list
+
+As a web user
+So that I can save a new bookmark
+I'd like to be able to add new bookmarks
 ```
 
 ## Initial Domain Model
