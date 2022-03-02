@@ -4,16 +4,17 @@
 
 
 ## User Stories - Work In Progress
-![User Stories](./public/images/user-stories.png)
+<img src="./public/images/user-stories.png" width="50%">
 
 ## Domain Model - Work In Progress
 #### Show All Bookmarks
 ![Show all bookmarks](./public/images/display-all-bookmarks.png)
+
 #### Add new Bookmarks
 ![Add new bookmarks](./public/images/add-new-bookmarks.png)
 
 
-## Database Setup - PostgresSQL
+## Database Setup - PostgreSQL
 ### Development Environment
 Run the following from your terminal
 
