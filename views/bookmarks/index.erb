@@ -5,6 +5,11 @@
   </head>
   <body>
     <h1>Bookmark Manager</h1>
+
+    <form action="/bookmarks/new" method="get">
+      <button type="submit">Add Bookmark</button>
+    </form>
+
     <ul>
       <% @@bookmarks.all.each do |bookmark| %> 
         <li><%= bookmark %></li> 
