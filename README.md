@@ -6,20 +6,11 @@
 ## User Stories - Work In Progress
 ![User Stories](./public/images/user-stories.png)
 
-```
-As a web user
-So that I can see all my web bookmarks
-I'd like a web page that displays them all as a list
-
-As a web user
-So that I can save a new bookmark
-I'd like to be able to add new bookmarks
-```
-
 ## Domain Model - Work In Progress
-* ![Show all bookmarks](./public/images/display-all-bookmarks.png)
-
-* ![Add new bookmarks](./public/images/add-new-bookmarks.png)
+#### Show All Bookmarks
+![Show all bookmarks](./public/images/display-all-bookmarks.png)
+#### Add new Bookmarks
+![Add new bookmarks](./public/images/add-new-bookmarks.png)
 
 
 ## Database Setup - PostgresSQL
