@@ -3,7 +3,9 @@
 * Initial Project setup README - this will be updated.
 
 
-## User Stories
+## User Stories - Work In Progress
+![User Stories](./public/images/user-stories.png)
+
 ```
 As a web user
 So that I can see all my web bookmarks
@@ -14,8 +16,10 @@ So that I can save a new bookmark
 I'd like to be able to add new bookmarks
 ```
 
-## Initial Domain Model
-![Bookmark Manager domain model & User Stories](./public/images/Bookmark_manager_domain_model_1.png)
+## Domain Model - Work In Progress
+* ![Show all bookmarks](./public/images/display-all-bookmarks.png)
+
+* ![Add new bookmarks](./public/images/add-new-bookmarks.png)
 
 
 ## Database Setup - PostgresSQL
