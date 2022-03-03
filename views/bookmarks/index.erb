@@ -11,8 +11,10 @@
     </form>
 
     <ul>
-      <% @@bookmarks.all.each do |bookmark| %> 
-        <li><%= bookmark %></li> 
+      <% @bookmarks.each do |bookmark| %> 
+        <li>
+          <a href="<%= bookmark.url %>" target="_blank"><%= bookmark.title %></a>
+        </li> 
       <% end %>
     </ul>
   </body>
